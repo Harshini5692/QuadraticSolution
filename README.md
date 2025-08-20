@@ -27,7 +27,6 @@ weather_model_quadratic/
 ├── inputs_multiple.txt
 └── README.md
 
-yaml
 
 
 ---
