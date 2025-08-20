@@ -15,7 +15,7 @@ Where:
 The project is implemented in four stages, starting from the most basic (hardcoded values) to handling multiple sets of inputs from a file.
 
 ---
- ##Folder Structure
+ ## Folder Structure
 weather_model_quadratic/
 version1_hardcoded.py
 version2_keyboard_input.py
