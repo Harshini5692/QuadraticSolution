@@ -18,15 +18,13 @@ The project is implemented in four stages, starting from the most basic (hardcod
 
 ## Folder Structure
 weather_model_quadratic/
-│
-├── version1_hardcoded.py
-├── version2_keyboard_input.py
-├── version3_file_input_single.py
-├── version4_file_input_multiple.py
-├── inputs_single.txt
-├── inputs_multiple.txt
-└── README.md
-
+version1_hardcoded.py
+version2_keyboard_input.py
+version3_file_input_single.py
+version4_file_input_multiple.py
+inputs_single.txt
+inputs_multiple.txt
+README.md
 
 
 ---
